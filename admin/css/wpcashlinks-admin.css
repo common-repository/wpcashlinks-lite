@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.editbox, .urleditbox {
+    display: none;
+    font-size: 14px;
+    width: 270px;
+    background-color: #ffffcc;
+    border: solid 1px #000;
+    padding: 2px;
+}
